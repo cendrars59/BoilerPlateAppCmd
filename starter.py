@@ -7,7 +7,8 @@
 
 
 def main():
-    """[summary]
+    """
+    Have some fun when coding
     """
     pass
 
