@@ -12,4 +12,4 @@ class Argument():
         Getting the application arguments
         """
         # intialization of the parser
-        pass
+        print("Parse the arguments")

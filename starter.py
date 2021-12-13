@@ -10,7 +10,8 @@ def main():
     """
     Have some fun when coding
     """
-    pass
+    
+    print("Your application is running")
 
 
 if __name__ == '__main__':
